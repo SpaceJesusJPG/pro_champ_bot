@@ -26,5 +26,5 @@ docker build -t pro_champ_bot .
 ```
 And then just run the image:
 ```
-docker image run pro_champ_bot
+docker run pro_champ_bot
 ```
