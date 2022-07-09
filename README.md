@@ -12,7 +12,7 @@ Bot that collects stats and builds from wins of pro players on your desired cham
 * TOKEN=... # your telegram bot token
 * CHAT_ID=... # chat id where you want to send notifications
 
-# Installation
+# Installation using docker
 Clone repository, create an env-file and fill it out according to the template above:
 ```
 git@github.com:SpaceJesusJPG/pro_champ_bot.git
